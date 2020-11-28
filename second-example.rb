@@ -1,3 +1,5 @@
+# Run: ruby second-example.rb -h
+
 def menu(option)
   case option
   when "-h"
